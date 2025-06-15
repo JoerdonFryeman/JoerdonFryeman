@@ -1,6 +1,6 @@
 ![JoerdonFryeman](https://github.com/user-attachments/assets/a7c172e1-67c1-43a5-9ec5-ec6c6ee1d3e2)
 
-## JoerdonFryeman
+## Joerdon Fryeman
 
 - Hi there! I'm developing simple but useful open-source console applications in Python.
 - Explore the featured projects "ЭЛЕКТРОНИКА 54": [CoinMonitor](https://github.com/JoerdonFryeman/CoinMonitor), [Clock](https://github.com/JoerdonFryeman/Clock), and [Matrix](https://github.com/JoerdonFryeman/Matrix).
