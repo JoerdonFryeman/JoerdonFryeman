@@ -3,7 +3,7 @@
 ## Joerdon Fryeman
 
 - Hi there! I'm developing simple but useful open-source console applications in Python.
-- Explore the featured projects "ЭЛЕКТРОНИКА 54": [AudioVisualizer](https://github.com/JoerdonFryeman/AudioVisualizer), [CoinMonitor](https://github.com/JoerdonFryeman/CoinMonitor), [Clock](https://github.com/JoerdonFryeman/Clock), and [Matrix](https://github.com/JoerdonFryeman/Matrix).
+- Explore the featured projects "ЭЛЕКТРОНИКА 54": [AudioVisualizer](https://github.com/JoerdonFryeman/AudioVisualizer), [CoinMonitor](https://github.com/JoerdonFryeman/CoinMonitor), [Clock](https://github.com/JoerdonFryeman/Clock) and [Matrix](https://github.com/JoerdonFryeman/Matrix).
 - I’m currently learning ML, and [NeuralNetwork](https://github.com/JoerdonFryeman/NeuralNetwork) is my latest project.
 - You can also check out my [personal library](https://github.com/JoerdonFryeman/PyKepLib) of various useful methods, as well as examples of [Django](https://github.com/JoerdonFryeman/DjangoSite) and [Flask](https://github.com/JoerdonFryeman/FlaskSite) websites.
 
